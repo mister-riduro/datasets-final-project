@@ -1,393 +1,47 @@
-list_fasil_id,hotel_id
-1,1983
-2,1983
-4,1983
-5,1983
-6,1983
-7,1983
-9,1983
-4,1984
-5,1984
-9,1984
-2,1985
-4,1985
-5,1985
-6,1985
-7,1985
-8,1985
-9,1985
-12,1985
-2,1986
-4,1986
-5,1986
-7,1986
-9,1986
-2,1987
-4,1987
-5,1987
-6,1987
-7,1987
-9,1987
-11,1987
-2,1988
-4,1988
-5,1988
-9,1988
-2,1989
-4,1989
-5,1989
-7,1989
-9,1989
-2,1990
-4,1990
-5,1990
-7,1990
-9,1990
-11,1990
-2,1991
-4,1991
-5,1991
-6,1991
-7,1991
-8,1991
-9,1991
-11,1991
-12,1991
-2,1992
-4,1992
-5,1992
-7,1992
-9,1992
-4,1993
-5,1993
-9,1993
-11,1993
-2,1994
-4,1994
-5,1994
-6,1994
-7,1994
-8,1994
-9,1994
-4,1995
-5,1995
-9,1995
-11,1995
-4,1996
-5,1996
-7,1996
-9,1996
-11,1996
-4,1997
-7,1997
-9,1997
-4,1998
-5,1998
-9,1998
-2,1999
-4,1999
-5,1999
-11,1999
-2,2000
-4,2000
-5,2000
-7,2000
-9,2000
-4,2001
-5,2001
-6,2001
-7,2001
-9,2001
-2,2002
-4,2002
-5,2002
-6,2002
-7,2002
-8,2002
-9,2002
-12,2002
-4,2003
-5,2003
-6,2003
-7,2003
-8,2003
-9,2003
-11,2003
-2,2004
-4,2004
-5,2004
-6,2004
-7,2004
-9,2004
-4,2005
-5,2005
-6,2005
-7,2005
-9,2005
-2,2006
-4,2006
-5,2006
-6,2006
-7,2006
-9,2006
-2,2007
-4,2007
-5,2007
-7,2007
-8,2007
-9,2007
-2,2008
-4,2008
-5,2008
-6,2008
-7,2008
-9,2008
-2,2009
-4,2009
-5,2009
-6,2009
-7,2009
-8,2009
-9,2009
-11,2009
-2,2010
-4,2010
-5,2010
-7,2010
-9,2010
-2,2011
-4,2011
-5,2011
-7,2011
-9,2011
-2,2012
-4,2012
-5,2012
-6,2012
-7,2012
-9,2012
-12,2012
-2,2013
-4,2013
-5,2013
-7,2013
-9,2013
-2,2014
-4,2014
-5,2014
-6,2014
-9,2014
-11,2014
-2,2015
-4,2015
-5,2015
-7,2015
-9,2015
-12,2015
-2,2016
-4,2016
-5,2016
-7,2016
-9,2016
-2,2017
-4,2017
-5,2017
-6,2017
-7,2017
-9,2017
-11,2017
-4,2018
-5,2018
-6,2018
-9,2018
-2,2019
-4,2019
-5,2019
-6,2019
-7,2019
-9,2019
-11,2019
-12,2019
-2,2020
-4,2020
-5,2020
-7,2020
-9,2020
-1,2021
-2,2021
-4,2021
-5,2021
-7,2021
-9,2021
-2,2022
-3,2022
-4,2022
-5,2022
-6,2022
-7,2022
-9,2022
-2,2023
-4,2023
-5,2023
-9,2023
-2,2024
-4,2024
-5,2024
-9,2024
-11,2024
-1,2025
-2,2025
-4,2025
-5,2025
-7,2025
-9,2025
-2,2026
-4,2026
-5,2026
-7,2026
-9,2026
-4,2027
-5,2027
-7,2027
-9,2027
-4,2028
-9,2028
-4,2031
-5,2031
-6,2031
-7,2031
-8,2031
-9,2031
-2,2032
-4,2032
-5,2032
-7,2032
-9,2032
-12,2032
-14,2032
-2,2033
-4,2033
-7,2033
-9,2033
-4,2034
-5,2034
-6,2034
-9,2034
-2,2035
-5,2035
-7,2035
-9,2035
-15,2036
-2,2037
-4,2037
-5,2037
-7,2037
-9,2037
-2,2038
-4,2038
-5,2038
-6,2038
-7,2038
-8,2038
-9,2038
-10,2038
-11,2038
-12,2038
-1,2039
-2,2039
-4,2039
-5,2039
-7,2039
-9,2039
-2,2040
-4,2040
-5,2040
-6,2040
-7,2040
-8,2040
-9,2040
-12,2040
-2,2041
-4,2041
-5,2041
-7,2041
-9,2041
-5,2042
-7,2042
-9,2042
-2,2043
-4,2043
-5,2043
-6,2043
-7,2043
-9,2043
-1,2044
-2,2044
-4,2044
-5,2044
-7,2044
-9,2044
-4,2045
-5,2045
-6,2045
-7,2045
-9,2045
-11,2045
-12,2045
-2,2046
-4,2046
-5,2046
-7,2046
-9,2046
-4,2047
-5,2047
-6,2047
-7,2047
-9,2047
-2,2048
-4,2048
-5,2048
-7,2048
-9,2048
-4,2049
-5,2049
-6,2049
-9,2049
-2,2050
-4,2050
-7,2050
-9,2050
-2,2051
-4,2051
-5,2051
-7,2051
-9,2051
-2,2052
-4,2052
-7,2052
-9,2052
-2,2053
-4,2053
-5,2053
-6,2053
-7,2053
-9,2053
-2,2054
-4,2054
-5,2054
-7,2054
-9,2054
-11,2054
-2,2055
-4,2055
-5,2055
-7,2055
-9,2055
-2,2056
-4,2056
-5,2056
-7,2056
-9,2056
-4,2057
-5,2057
-7,2057
+,Hotel Image,Hotel Name,Tipe Properti,City,Address,Hotel Rating,Min,Max,Lattitute,Longitude
+1983,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/33db59ed-b0cc-4bb3-9a03-ea7554d0279f-1615544156064-7f48c90dda2781729f42ff80321324f8.jpg,RedDoorz near Taman Kota Ternate,Guest House,Ternate Selatan Ternate,Jalan Sweering Mangga Dua. Mangga Dua. Ternate Sel.. Kota Ternate. Maluku Utara. Indonesia,4.1,205960,205960,0.771774,127.376871
+1984,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/06/c6dc7b0f-e68a-4089-bc0a-a7c80b18e38b-1638786922525-4e6d66b3249b479f9ae87a80cf545617.jpg,RedDoorz Plus @ Grand Tabona Hotel Ternate,Hotel,Ternate Selatan Ternate,Jl. Tugu Maku Gawene. Kayu Merah. Ternate Sel.. Kota Ternate. Maluku Utara 97711. Indonesia,4.3,190242,336427,0.768056,127.366644
+1985,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/01/19/f4860ec2-52d1-4f73-9a57-f15f87839792-1611021082352-4c128180535c3809a53c71f8d82afce0.jpg,Ternate City Hotel,Hotel,Ternate Tengah Ternate,Jalan Nuku No 1 Ternate. Ternate Tengah. Ternate. Maluku Utara. Indonesia,3.4,274725,544455,0.783139,127.388091
+1986,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/4d41dbfe-4352-4a8b-9d3b-0c8813c1c971-1604129898295-efbd590912b3346afc55d52aba2b0aa6.jpg,Archie Hotel 2,Hotel,Ternate Tengah Ternate,Jl. Sultan Nuku No.6. Muhajirin. Ternate Tengah. Kota Ternate. Maluku Utara. Indonesia,3.8,298951,298951,0.783639,127.38663
+1987,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/28/bbb03901-b844-434c-ac23-d25c67e53152-1603882806602-5bf1979e266387515b8d09cdc70aec34.jpg,Dragon Palace Hotel by Amazing,Hotel,Ternate Utara Ternate,Jalan Pemuda No. 144 A Koloncucu. Toboleu. Ternate. Kota Ternate. Maluku Utara 97726. Indonesia,4.3,388125,644000,0.808888,127.385114
+1988,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/d0049f8d-2389-488e-9264-e8181e64a0cf-1604138806064-e3ee60228ec75b2e0745085f9cfeb9b8.jpg,Aini Homestay Ternate,Hotel,Ternate Utara Ternate,Jl. Toboleu Koloncucu Gipsy No. 45/703. Kelurahan. RT.16/RW.06. Toboleu. Ternate Utara. Kota Ternate. Maluku Utara,3.5,151999,338195,0.807052,127.384006
+1989,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/18/9b9ea0fe-572f-4b1b-8403-a6c9380a916c-1616072143151-644e010551608dfb9190a3ab4f5a5adf.jpg,WISMA AIRA,Guest House,Ternate Utara Ternate,Jl. Sultan Khairun. Soa Sio. Ternate Utara. Kota Ternate. Maluku Utara. Indonesia,2.6,225000,225000,0.799408,127.384515
+1990,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/24/e88f29e1-290c-4d8d-b3f5-14fcb9bfab1c-1640347245559-cc772d7f04a2856ce166fb05d3b9e266.jpg,Tiara Inn,Hotel,Ternate Tengah Ternate,Jl. Salim Fabanyo No. 1,3.0,325000,375000,0.7855499982833862,127.38672637939453
+1991,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/05/17/4e847918-c6f0-492d-8ccd-17a1492c757d-1621186507992-479a7efdd0f69ec7d713375c151c7dd0.jpg,Hotel Nirwana Ternate RedPartner,Hotel,Ternate Tengah Ternate,Jl. Pahlawan Revolusi No.58-60 RT 002/04. Gamalama. Ternate Tengah. Kota Ternate. Maluku Utara 97721. Indonesia,1.7,213180,641088,0.787582,127.388682
+1992,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/09/03/ca6b0b3a-42af-436a-aa46-6f334cfe0314-1662178273189-bf1a0fbc45b27de2c2032e4a7c66a94e.jpg,Muara Inn ternate,Inn,Ternate Tengah Ternate,Jln seruni no 88 Kampung Pisang. ternate tengah. Ternate,Belum ada rating,315957,355000,0.783469974994659,127.382606506348
+1993,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/28/700d45fe-40a6-4f27-98ce-e8e89f52882a-1603891308565-a18eb92aa4da9cb8f4ad74ce9da11553.jpg,Everbright Hotel Ambon,Hotel,Sirimau Ambon,Cendrawasih Street No. 20,3.7,360458,495000,-3.690734,128.18678
+1994,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/03/04/26cdf7f1-ee4b-42c4-9869-477e723683ae-1646373315510-1017ff180acb3f6a2ad98bbaaa9505c8.jpg,Grand Avira Hotel,Hotel,Sirimau Ambon,Jl.Rijali No 86.Batu Merah.Kota Ambon. Maluku . Indonesia,4.4,342000,800000,-3.68731,128.187562
+1995,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/4b9cce32-3c94-4869-9306-7c3ff537ca93-1604134357499-e86ed512115be5eef78abd1d9d5b6a4e.jpg,LeGreen Suite Ratulangi Ambon,Hotel,Sirimau Ambon,Jl. Sam Ratulangi No.93. Kel Honipopu. Sirimau. Kota Ambon. Maluku. Indonesia,4.1,299687,536544,-3.695129,128.17897
+1996,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/cb2d27de-abda-4048-8b29-cabdda59be5d-1604136060118-ad13f124484b220448687a625ffedca0.jpg,RedDoorz near Universitas Pattimura Ambon,Hotel,Baguala Ambon,Jl. Ir. M. Putuhena. Rumah Tiga. Tlk. Ambon. Kota Ambon. Maluku,3.4,177840,241800,-3.65576,128.186918
+1997,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/ad8b361f-e4a8-4014-a44a-79ff1505afe2-1615557333088-7fdaa6428a37419993ecdc8aeffe5ea2.jpg,Atlantic Hotel Ambon,Hotel,Sirimau Ambon,Jalan Anthony Rhebok No. 8. Kelurahan Honipopu. Kecamatan Sirimau. Kel Honipopu. Sirimau. Kota Ambon. Maluku,4.1,277106,451803,-3.697124,128.180075
+1998,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/01/21/7fb1d022-7383-425a-a5c0-2bc11f6afd79-1611204909568-2a32c06363bb617722a38e53102c5cd9.jpg,Hotel Golden Inn Ambon City Center,Hotel,Sirimau Ambon,Jl. Fulli No. 8-9. Kel. Honipopu. Sirimau. Kota Ambon. Maluku. Indonesia,3.6,165488,235184,-3.695283,128.177897
+1999,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/07/cf9eff33-8242-4832-a7b9-19e32fecf937-1638813323136-45f579dd6f57326ce653875807036b3f.jpg,The Orchid Hotel Ambon,Hotel,Sirimau Ambon,Jalan pattimura no 5. Ambon. Mollucas. Ambon City Center. Ambon. Indonesia. 97124,4.1,340221,340221,-3.6948128,128.1842525
+2000,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/df9c8d1a-a93a-4618-b439-7cbc439f338b-1615561253799-6f6ae978da38f48a7081dab26a62fe30.jpg,OYO 3104 Wisata Hotel,Hotel,Sirimau Ambon,Jl. Mutiara No.38. Kel Rijali. Sirimau. Ambon. Ambon,2.6,83251,112246,-3.689736,128.18468
+2001,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/46e49f6d-fa10-42ad-842c-5604d24d2028-1615556740807-7953004b5171097ffef5b795a79639f4.jpg,OYO 2010 Satria Guest House,Hotel,Sirimau Ambon,Jl. D. I. Panjaitan. Uritetu. Sirimau. Kota Ambon. Maluku. Indonesia. Ambon,3.0,172345,191494,-3.691342,128.184633
+2002,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/2a724759-b531-4130-a711-397999292fbf-1615559971709-9119d1cb239256fb0ac91d990ee7c592.jpg,OYO 2269 Hotel Astika,Hotel,Baguala Ambon,Jl. Wolter Monginsidi. Halong. Baguala. Ambon,2.5,79200,109000,-3.653325,128.227565
+2003,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/07/30/46db9cbc-d756-43e3-8149-b4d7f02ae120-1627641321244-03ac92661fa12f0a50bb07d54a7f153c.jpg,Almira Homestay Ambon RedPartner,Hotel,Nusaniwe Ambon,Jl. Hative Ambon. Kel Silale. Nusaniwe. Kota Ambon. Maluku. Indonesia,1.0,131100,231000,-3.697591,128.175476
+2004,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/12/09/3b9aa875-b138-4a46-b588-ec1f3cc7f246-1639068623921-27566eccfbbb378116050f56a8cc7576.jpg,Budget Hotel Ambon,Hotel,Sirimau Ambon,Budget Hotel Ambon. Jl. Sirimau No. 12. Batumeja. Ambon. Kel Batu Meja. Sirimau. Ambon maliku. Maluku 97123. Indonesia,3.1,290000,330000,-3.698489,128.186699
+2005,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/f1397f69-42a8-46b6-a08b-112b9f75332a-1615559971703-0fe45ed80bf7c99c51724339a6a7270c.jpg,OYO 2165 Alyah Guest House Syariah,Hotel,Nusaniwe Ambon,Jl. Waihaong Pantai No. 30. Waihaong. Nusaniwe. Kota Ambon. Maluku 97112. Indonesia,2.4,72732,76560,-3.701055,128.175903
+2006,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/05/12/27e9f2be-6b2f-4dea-9eb2-6bc717046e62-1652355036075-865d22ed2ad16a17eacb7daad3d9bfa0.jpg,Guest House New Mulia,Guest House,Sirimau Ambon,Jl. Rijali No.19. Rijali. Kec. Sirimau. Kota Ambon. Maluku,Belum ada rating,212464,580562,-3.692092,128.188335
+2007,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/05/19/dea5d5c9-4104-49a6-9a9e-2044146e2df0-1652968516240-64719b06abbb2c2709f1b72fe89ccceb.jpg,OYO 1629 Nadine's Home,Hotel,Baguala Ambon,I. Laksdya Leo Wattimena St. Ambon,1.7,114470,146666,-3.631641,128.252029
+2008,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/11/17/d5e347be-bc23-4f27-8ddd-fd3697a14d36-1637153728777-c3da92f5395b55f52cd61bb340571bd0.jpg,Penginapan Tanah Tinggi,Hotel,Sirimau Ambon,Jalan Skip. Kelurahan Karang Panjang. Kecamatan Sirimau. Kota Ambon. Maluku. Indonesia,5.0,250000,250000,-3.696563,128.187888
+2009,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/02/07/cacc74fd-76cc-4c28-aa56-1236006130b8-1644207323565-131fe4be4115afc181d76fe7eff96f3c.jpg,Hotel Casa Felice Natsepa Beach Ambon,Guest House,Baguala Ambon,97M5+56W. Passo. Baguala. Kota Ambon. Maluku. Indonesia,Belum ada rating,269786,504611,-3.61702,128.258087
+2010,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/20c946e4-2860-4966-b0bd-a5c753e081ee-1615559127340-8c783e9956e6e5aea52014015d3a0118.jpg,Wisma Grace,Hotel,Sirimau Ambon,Jl. Mutiara Gg. Udang No.45. Mardika. Sirimau. Kota Ambon. Maluku,Belum ada rating,250000,335001,-3.689309,128.184438
+2011,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/09/28/67219723-7998-4e4e-9f58-5c70511595c2-1632781655556-b62abc26df2867e52c43e00bf6f7b99b.jpg,Mama Guest House Ambon,Apartment,Nusaniwe Ambon,,Belum ada rating,269211,269211,-3.70025926643556,128.17563123247984
+2012,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/09/23/b079f736-f8ef-4352-8c28-1a7d9f803248-1663916061147-0261246f3e222f8f0a560f2367860faf.jpg,Golden Inn Ambon Redpartner,Hotel,Sirimau Ambon,Jl. Fuli No.48. Sirimau. Ambon. Maluku. ID,Belum ada rating,346500,346500,-3.69528,128.1779
+2013,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/02/03/a1c57114-f911-4fde-8ca9-ea86714ca7a1-1612337107857-f35560630ea435f32662d5a56d1a0301.jpg,RedDoorz near Reremi Pemancar Manokwari,Hotel,Manokwari Manokwari,Jl. Palapa. Manokwari Bar.. Kabupaten Manokwari. Papua Bar. 98312. Indonesia,3.1,265474,310496,-0.856445,134.062777
+2014,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/01/09/9f02ada2-bc11-4ed7-be20-eed3c431ac47-1641741326878-7cdc80e21c4f9661401f6aa8f348baab.jpg,Quattrick Dee Homestay RedPartner,Hotel,Manokwari Manokwari,Unnamed Road. Manokwari Bar.. Manokwari. Papua Bar. 98312. Indonesia,4.9,313834,426064,-0.853326,134.055533
+2015,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/09/28/6f2b7cb7-f54e-4e8f-ab7d-ed33f7784ef2-1632780531787-a771555473ca038b8bd5087ab5ead2ef.jpg,Arborek Homestay,Vacation Home,Waigeo Selatan Raja Ampat,Jalan Fundar Sakela 1 Desa Arborek,Belum ada rating,335001,335001,-0.42315998673439026,130.8211669921875
+2016,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/64554218-1408-44a6-a19f-d42e632a0588-1604147620109-9c5073993fed0346cf3e899c6e20cb84.jpg,RedDoorz near Dermaga Pelabuhan Rakyat,Hotel,Sorong Manoi Sorong,Jl. Selat Rumberpon No.10A. Remu Sel.. Sorong Manoi. Kota Sorong. Papua Bar. 98412,3.6,379904,379904,-0.885448,131.286572
+2017,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/07/05/7f16e2e9-e84d-4dcf-b4e9-19fdd24d5c5f-1657007727752-049004bc23263a71a957e713f8ee1f4b.jpg,Parkside Star Hotel Waena,Hotel,Heram Jayapura,Jl. Raya Waena Abepura. Kampung Waena. Kecamatan Heram. Kota Jayapura. Papua,4.4,345000,776845,-2.596421,140.634851
+2018,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/5dffc9cf-3ac0-4995-8dd0-aeccc2f60ffe-1615561880316-c577a3fd8da8d4e8048bdb7cf499dab1.jpg,RedDoorz near Pelabuhan Jayapura,Hotel,Jayapura Selatan Jayapura,Jl. Argapura. Hamadi. Jayapura Sel.. Kota Jayapura. Papua. Indonesia,3.3,347618,462000,-2.5591,140.712025
+2019,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/12/25/62d157bc-62bd-46ce-8b60-859a43c50fe0-1608835043982-14eb7144464a1f77a83f971a54f9dd63.jpg,Votel galaxy hotel Abepura,Hotel,Heram Jayapura,Jl. Raya Airport Sentani. Waena. Heram. Kota Jayapura. Papua 99351. Indonesia,3.1,399996,574994,-2.593835,140.625229
+2020,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/04/19/1a3ed0b5-0167-4bab-a174-170a37b69a88-1650353474079-14b187355ca26df761c13b83f374d5bc.jpg,Hotel Surya Jaya,Guest House,Sentani Timur Jayapura,Dobonsolo. Sentani. Jayapura Regency. Papua,4.1,173250,195390,-2.569543,140.504467
+2021,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/08/19/e34ff61e-8a70-47be-8e4f-0b079ef67b10-1660885288553-e0f9a1832f841709d41d2d63c7f4a4c4.jpg,Hotel Gamalama,Hotel,Abepura Jayapura,JL. GERILYAWAN NO.60 ABEPURA.KOTA JAYAPURA-PAPUA,5.0,323171,353659,-2.61374617,140.6679
+2022,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/03/22/7d07a058-b3bc-4d1d-94a6-8cd44dd9b785-1647932515213-77c4d4c161fcf6181d1155f8969ad55e.jpg,RedDoorz @ Waena Jayapura,Guest House,Heram Jayapura,Jl. Belut 1 No.6. Kp. Waena. Heram. Kota Jayapura. Papua 99351. Indonesia,4.9,261097,261097,-2.596905,140.628569
+2023,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/02/17/620c813c-a756-4a1b-8a98-e5c012246b26-1645115119737-6f88b4f5a1cae80bb93cc6e802a5ceed.jpg,RedDoorz @ Abemoch Kampkey,Hotel,Abepura Jayapura,Jl. Raya Abepura No.2. Awiyo. Abepura. Kota Jayapura. Papua 99351. Indonesia,3.8,314716,326372,-2.620364,140.674354
+2024,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/02/04/3ad0fdb1-e50b-407a-bddd-d5816bc19826-1643949317963-3f7649dced59aaadbdcbeee82f7ba1cd.jpg,RedDoorz Syariah near Sentani City Square,Guest House,Sentani Timur Jayapura,CFVW+7CF. Hinekombe. Sentani. Jayapura Regency. Papua 99359. Indonesia,3.6,320544,320544,-2.557188,140.496083
+2025,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/03/15/5b3afbf4-9367-4307-af16-703934044929-1647313522973-9d21c0b5a9492b420684933497cdf638.jpg,RedDoorz @ Cigombong,Hotel,Abepura Jayapura,Lapangan. Jl. Perkutut. Vim. Abepura. Kota Jayapura. Papua 99225,3.0,296800,296800,-2.599163,140.67106
+2026,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/05/31/cc288946-2d8b-4ac5-88a3-890448a70070-1653973261443-79739dcdfc222698365281ee65fdc4c2.jpg,Unity RoomRent,Hotel,Abepura Jayapura,Jl. Pantai Enggros. samping gereja El-Shadai,4.5,250000,250000,-2.616919,140.684219
+2027,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/08/03/69a6d674-112a-4372-a422-2287cc965c7f-1659519326207-21a9151d74a26fec57c68951afe8f4e5.jpg,RedDoorz @ Jalan Gelanggang Remaja Waena Jayapura,Hotel,Heram Jayapura,Jl. Gelanggang Remaja. Waena. Kec. Heram. Kota Jayapura. Papua 99351. Indonesia,Belum ada rating,201125,236832,-2.598149,140.627594
+2028,https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/09/03/194fbfdd-8a40-4e03-8518-db67d2e0d8cc-1662174149854-1ce915b983054386d2caa538ac720d35.jpg,RedDoorz @ Merauke City Center,Hotel,Merauke Merauke,'Jalan Raya Mandala. No.FCQ3+4M5. Mandala. Kecamatan Merauke' 'Jalan Raya Mandala. No.FCQ3+4M5. Mandala. Kecamatan Merauke',Belum ada rating,291980,467460,-8.51220989227295,140.4041290283203
