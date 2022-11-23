@@ -1,0 +1,237 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Mount Rinjani",
+                "short_name": "Mount Rinjani",
+                "types": [
+                    "natural_feature",
+                    "establishment"
+                ]
+            },
+            {
+                "long_name": "Sembalun Lawang",
+                "short_name": "Sembalun Lawang",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Sembalun",
+                "short_name": "Sembalun",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "East Lombok Regency",
+                "short_name": "East Lombok Regency",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "West Nusa Tenggara",
+                "short_name": "West Nusa Tenggara",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Indonesia",
+                "short_name": "ID",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "Mount Rinjani, <span class=\"extended-address\">Sembalun Lawang, Sembalun</span>, <span class=\"locality\">East Lombok Regency</span>, <span class=\"region\">West Nusa Tenggara</span>, <span class=\"country-name\">Indonesia</span>",
+        "editorial_summary": {
+            "language": "en",
+            "overview": "Giant active volcano topped by a crater lake, accessible via multi-day hiking expeditions."
+        },
+        "formatted_address": "Mount Rinjani, Sembalun Lawang, Sembalun, East Lombok Regency, West Nusa Tenggara, Indonesia",
+        "geometry": {
+            "location": {
+                "lat": -8.4112952,
+                "lng": 116.4573488
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -8.400257074386131,
+                    "lng": 116.4733562237714
+                },
+                "southwest": {
+                    "lat": -8.422333011178345,
+                    "lng": 116.4413413762286
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mount Rinjani",
+        "photos": [
+            {
+                "height": 499,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101745498715457455948\">andreas hermanto</a>"
+                ],
+                "photo_reference": "AcYSjRjx2kZptaFatQFxWAw90QK4lWr2msITUbx3BHmpiq9deal0ac-4ZrJeopokS8LydhqGrDVwQ6WWf2aqcLguTQvJczn5Yt0XZ5aul6Cg1tXovyiKeJYKCkB-IbThbMi51oq29kUt0Vj5LjnUOYw0A7v9cxBtgLW-DNQ4Y8GD2FRiUZJy",
+                "width": 900
+            },
+            {
+                "height": 6000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107973830339453333102\">lombok pirates</a>"
+                ],
+                "photo_reference": "AcYSjRgIUYdoYg0DuMOiUJNnau_cKQI3LlF8OOHPjI0RKpG9-DXfHLP150jGkv8LFTzOGOGvx7GT2-byXw8QAKl2awPAy3WCgW3IBktIlQhYw2w18S1WBrm5rSOYCEzvCoEX0EHq9fBBdJwvGCY61NE2VUzEs4I3DRs0L3FAikcKCRkmmuHB",
+                "width": 3376
+            },
+            {
+                "height": 713,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117035132109150728722\">?</a>"
+                ],
+                "photo_reference": "AcYSjRjzq7LMb7cLHUs5J4VXa6ROYEPhOCBQVZ--0kYvKzDwNe1h1G9sXrfLbdsSG3ClfTPd8r0o7I8u0YZEnRtbWcOS5jZL_wb8lH_GFmtA9zYU4kvgeGf8b3yqKwhvDnKhMQtaILyAx7N_x0Q_n2qIh7Iq-irf_r3LnP6ylQxEHP-2BMSB",
+                "width": 1080
+            },
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107595942217645864915\">Joseph</a>"
+                ],
+                "photo_reference": "AcYSjRjms5TCkXofey-2asmRmPGj9g_bnvhsTWiFmmSkWnn74OyyzW3Kz0smWkmXrmjuxZeh6fEujtGF6vQKpFmLVH_-juivJEUoy-L2x56HmyOG01WWFsDiY2-Em6EvLuVigN6V71YpQ2dmmJtg2Ua-moXYCaPqCeZRCZPqEyspjv3jgYDF",
+                "width": 3264
+            },
+            {
+                "height": 3268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108029732051217176792\">Renata Łacina</a>"
+                ],
+                "photo_reference": "AcYSjRhWzQfZKQaB4X92ILe38PaWus2i8RuiTWL_NHawe-ugD_87bQRjrxnL5v9F5fHENGDo6dntAHC0POBrPjDQXRIgKF7LnFrE98bAw76albb5psPnAfxiM0qe_FMlnc1jRU7eps6d7hMRq3nIjAPBcyYsE-1uIzkd4mNd4e2PRScDZbmd",
+                "width": 4895
+            },
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107973830339453333102\">lombok pirates</a>"
+                ],
+                "photo_reference": "AcYSjRhIIM-d_UAtpHvfxrIlh3eK2wa4kIYHA4A17ZWWvF1ACtY5Df-UDkzWwYghHFylqFZgWPxiZ5VYNHdinG0SHDBLjwyHA60mHQ6tcbDuUEVkjrWy7M8gs0GuhFnL0t-eHsVVhiO2zHOXVGvYOn3MrhmwlcKzpDvBfIhB5zZnfo10ZPIN",
+                "width": 1080
+            },
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108758320698609102754\">Thankful Servant</a>"
+                ],
+                "photo_reference": "AcYSjRhH9i9SIEvqcJRNWyNCDPg4yCf-MA3RMroZgb13ZwPCNWXAiphzqxpbSCdyMzVuPabEiZVjcSg_I0h7ylY3Z4PE6eS_j4HbBXi-DbwfKKK5zLiw56psRX02-4LgghNoaXVIEINsP2WyELFDotfJViE3hDfXYh7HA-2GLFxm2eDQiNeO",
+                "width": 1280
+            },
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110997900236049003954\">Abhishek Anand</a>"
+                ],
+                "photo_reference": "AcYSjRgKiq1A8CX3jmL-pUXViNkqCWrq2Tn8JjlRbApocqXX2n7mqNMAzyICwHdsIS1aUkHQSWrXJCOYoAfdMnfT_huKN14hzYxTrWp8_eB_njXD8KDVNCLa8hqd_zJeyIvqmNKS4QHbkWCjRSE4zX5JAjzgBHz_nteo1ovrHiiIHdbwxFDm",
+                "width": 6000
+            },
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107973830339453333102\">lombok pirates</a>"
+                ],
+                "photo_reference": "AcYSjRhJcq7C2FhI6G59AmAcsAZqNOeX3UiT3KP9DBYmconY-AeQt-tb-MFLNizBSgjOQ50GjzAFVlkF7JuZMD0zWsKGkw9Ts7PHaLNg_ww0Cu4TbY97_Zmfizo-wf35deKlbJ16g0Nk6tGN2AJSc_Ebbm01ZrYs2Y_2sAecmH5M-2fVWKQ-",
+                "width": 1080
+            },
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102171589853749960139\">Faisal D Purnawarman</a>"
+                ],
+                "photo_reference": "AcYSjRhonY9gby1jh9XHW0dFvcsaTniokMwXjSxMNOEfu1LwH5hNmTPT8wUDoyuhAQUCwL6NhpgLF2sDCwjSCK7E0UUJAzhs-Ysrcp0ZcFZMQEfdQY2KYCxqZSXMJzMeAlMqX2CGhyWwZu3pGu1ggveLjIXBYF0PFfh9_AVo6JjHmjLUMFb0",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJz8wWAoAtzC0RHgrTEb_NAzw",
+        "rating": 4.5,
+        "reference": "ChIJz8wWAoAtzC0RHgrTEb_NAzw",
+        "reviews": [
+            {
+                "author_name": "Azmir Ahmad",
+                "author_url": "https://www.google.com/maps/contrib/104470612674766912662/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/ALm5wu17B1S-yRMMmBRrGYzmAGqzesH6zk2OGv8zEA0E=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "2 weeks ago",
+                "text": "Rinjani is the second highest volcano in Indonesia, after Mount Kerinci. In terms of beauty, it is second to none.\n\nThere are few well known trails that offer different length/challenge/view. I opted to ascend thru Sembalun and descent thru Torean. From Sembalun to Plawangan (crater rim), it is a mix of flat and steep terrain, the view for the most part will be the awesome savannah. There is no shade at all during this part but most of the time you'll be covered by cloud so it is bearable. On the later steeper part nearing crater rim, it change a little with some not too thick trees that offer some shades, you can still see some views as the trees wasn't dense at all.\n\nMost hikers camp at crater rim before summit attack early morning usually around 2-3am. I started at 2.30 and reach the summit around 6am, just nice before sunrise. The trail from crater rim to summit basically can be divided into 3 parts. The first part is steep with some loose scree but certainly doable. There are ropes fixed at some points but I don't really need them so it's really not as hard as I initially thought. Second section is the longest in term of the distance but very easy with almost flat and solid surface. The last section is the one that you can see from crater rim where you camped, it is mainly made up from loose scree with plenty of dust (wearing a buff will be helpful here). Not as hard as I made to believe, but very very dusty.\n\nView from the summit is a majestic 360 degree view with Bali and Mount Agung on one side, savannah on the other, plus Segara Anak and range of mountains. Totally worth the effort. Most people told me to bring gaiter but I don't have any issue without it, not a single rock entered my shoes but I can't say the same to my friends.\n\nAfter descend, we went to the Segara Anak lake to camp. The descend from crater rim to Segara Anak was the most challenging due to the extreme heat. We started the descent a bit late at around 1.30pm due to one of my friends is a slow walker. Try to descent before noon as you will get shade due to sun directions during morning time. Hot spring near the lake is very welcomed after a long hike.\n\nThe last day from Segara Anak to Torean village is fairly easy, there is some sections that require hikers to be more attentive due to narrow path next to the cliff. The view is totally great but you will be exposed to the elements again. After a while, you will enter a jungle area with no view but that also means you no longer exposed to the element.\n\nWe trekked with Green Rinjani and I would rate them extremely high. Excellent service, the guide (Andhy) and porters really hardworking. I would recommend them without hesitation.",
+                "time": 1665033817,
+                "translated": false
+            },
+            {
+                "author_name": "Salbiah Karusan",
+                "author_url": "https://www.google.com/maps/contrib/102520161698572988026/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu-kGg3H8RWKn6pA96NnqbF6TugDsn1ghZ4HKjlalQ=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "2 months ago",
+                "text": "The best hiking experience with majestic view. Rinjani offer you hard climbing but worth every step of the journey. The track, sunrise, stargazing, hot spring, lake and everything is perfectly beautiful. Allah is the greatest!",
+                "time": 1659414382,
+                "translated": false
+            },
+            {
+                "author_name": "Karolis",
+                "author_url": "https://www.google.com/maps/contrib/118175479559388364666/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu_tLCeQM30yfV1nKQHRZzkSFm7vwZke-p5UEkl3P28=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "3 months ago",
+                "text": "The second highest mountain in Indonesia offers  a challenging hike and spectacular views to those who take it. In theory it's possible to do it in an early morning/day trip, however you'll be most likely taking one night or two nights trip with some rest in the camping sites on the rim. The hike from the campsite is difficult in the first part as it is pretty steep, slippery and is taken in the dark of the night, medium in the middle part and most difficult in the last stretch as it takes you up a steep sand hill, which feels as you would be climbing a dune.\nThe campsite is usually departed at around 2 am and the return is around 9 am.\nIt is cold at the top and the wind on the way may be piercing, however you'll feel warmer when climbing. Layers, gloves and winter cap is advised.\nThe views on the way up offer starry sky, lights of Lombok, breaking dawn and finally sunrise with all around views of the Lombok and even other islands.",
+                "time": 1657353059,
+                "translated": false
+            },
+            {
+                "author_name": "Suresh Singh Panwar",
+                "author_url": "https://www.google.com/maps/contrib/118425412123078390115/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu_wvOmvQGkKepI3JcB128fgWfIMhhzZ80wMrKoxuvc=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "Mount Rinjani is an active volcano in Indonesia on the island of Lombok.  the mountain is in the of North Lombok, West Nusa Tenggara. It rises to 3,726 metres, making it the second highest volcano in Indonesia. It is also the highest point in the Indonesian province of West Nusa Tenggara",
+                "time": 1654509947,
+                "translated": false
+            },
+            {
+                "author_name": "Leeroy Godsell",
+                "author_url": "https://www.google.com/maps/contrib/108631422485553285379/reviews",
+                "language": "en",
+                "original_language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACNPEu9pORhST2OUdTugoGHzyPngHrK0VB4OirNmBOwoPQc=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "2 months ago",
+                "text": "The most Amazing experience. Pictures and words just dot not comprehend how amazing this place is.",
+                "time": 1660557268,
+                "translated": false
+            }
+        ],
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=4324526287727299102",
+        "user_ratings_total": 2057,
+        "utc_offset": 480,
+        "vicinity": "Mount Rinjani"
+    },
+    "status": "OK"
+}
